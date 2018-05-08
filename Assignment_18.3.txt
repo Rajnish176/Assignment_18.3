@@ -1,0 +1,21 @@
+Step 1: Write your X-value into the z-score equation. 
+For this sample question the X-value is your SAT score, 1100.
+
+Z=(1100-µ)/SD
+
+Step 2: Put the mean, µ, into the z-score equation.
+
+Z=(1100-1026)/SD
+
+Step 3: Write the standard deviation, SD into the z-score equation.
+
+Z=(1100-1026)/209
+
+Step 4: Calculating Z =
+(1100 – 1026) / 209 = .354. This means that your score was .354 std devs above the mean.
+
+Step 5: (Optional) Look up your z-value in the z-table to see what percentage of test-takers scored below you. 
+A z-score of .354 is .1368 + .5000* = .6368 or 63.68%.
+
+*Why add .500 to the result? The z-table shown has scores for the RIGHT of the mean. 
+Therefore, we have to add .500 for all of the area LEFT of the mean. 
